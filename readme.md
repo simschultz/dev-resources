@@ -17,6 +17,7 @@ https://dribbble.com/
 https://css3buttongenerator.com/
 https://unsplash.com/
 https://www.flaticon.com/
+https://www.favicon.cc/
 
 
 Web/Templates
