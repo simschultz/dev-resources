@@ -3,7 +3,7 @@ Documentation
 https://devdocs.io/
 
 
-CSS/UI/Designs
+CSS/UI/Designs/Resources
 
 https://collectui.com/
 https://www.canva.com/
@@ -16,8 +16,10 @@ https://sneakpeekit.com/
 https://dribbble.com/
 https://css3buttongenerator.com/
 https://unsplash.com/
+https://www.flaticon.com/
 
 
-Web
+Web/Templates
 
+https://html5up.net/
 https://updateyourfooter.com/
