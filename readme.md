@@ -1,9 +1,12 @@
 Documentation
 
+
 https://devdocs.io/
 
 
+
 CSS/UI/Designs/Resources
+
 
 
 https://bootsnipp.com/
@@ -12,12 +15,14 @@ https://bootsnipp.com/
 Colours
 
 https://colorhunt.co/
+
 https://color.adobe.com/create/color-wheel
 
 
 CSS/Libraries
 
 https://css3buttongenerator.com/
+
 https://www.cssfontstack.com/
 
 
@@ -25,11 +30,17 @@ https://www.cssfontstack.com/
 Designs/UI/Prototyping
 
 https://collectui.com/
+
 https://sneakpeekit.com/
+
 https://www.canva.com/
+
 https://dribbble.com/
+
 http://ui-patterns.com/patterns
+
 https://www.dailyui.co/ (practice)
+
 
 
 
