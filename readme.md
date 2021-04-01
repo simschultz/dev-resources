@@ -9,9 +9,6 @@ https://devdocs.io/
 ## CSS/UI/Designs/Resources
 
 
-https://bootsnipp.com/
-
-
 ### Colours
 
 https://colorhunt.co/
@@ -25,6 +22,7 @@ https://css3buttongenerator.com/
 
 https://www.cssfontstack.com/
 
+https://bootsnipp.com/
 
 
 ### Designs/UI/Prototyping
@@ -72,7 +70,7 @@ https://search.google.com/test/mobile-friendly
 
 
 
-### Web/Templates
+## Web/Templates
 
 https://html5up.net/
 
