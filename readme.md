@@ -1,23 +1,25 @@
-Documentation
+# Resources
+
+## Documentation
 
 https://devdocs.io/
 
 
 
-CSS/UI/Designs/Resources
+## CSS/UI/Designs/Resources
 
 
 https://bootsnipp.com/
 
 
-Colours
+### Colours
 
 https://colorhunt.co/
 
 https://color.adobe.com/create/color-wheel
 
 
-CSS/Libraries
+### CSS/Libraries
 
 https://css3buttongenerator.com/
 
@@ -25,7 +27,7 @@ https://www.cssfontstack.com/
 
 
 
-Designs/UI/Prototyping
+### Designs/UI/Prototyping
 
 https://collectui.com/
 
@@ -42,32 +44,36 @@ https://www.dailyui.co/ (practice)
 
 
 
-Icons
+### Icons
 
 https://www.flaticon.com/
+
 https://www.favicon.cc/
 
 
-Images
+### Images
 
 https://emojipedia.org/
+
 https://unsplash.com/
 
 
-Font/Text
+### Font/Text
 
 https://fontawesome.com/
+
 https://loremipsum.io/
 
 
-Mobile
+### Mobile
 
 https://search.google.com/test/mobile-friendly
 
 
 
 
-Web/Templates
+### Web/Templates
 
 https://html5up.net/
+
 https://updateyourfooter.com/
