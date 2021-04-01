@@ -1,12 +1,10 @@
 Documentation
 
-
 https://devdocs.io/
 
 
 
 CSS/UI/Designs/Resources
-
 
 
 https://bootsnipp.com/
